@@ -7,11 +7,13 @@ It is a part of Udacity IOS Nanodegree [ios](https://www.udacity.com/course/ios-
 Just lets have fun :snail: :rabbit: :bird: :alien:
 
 ## Project Screen Shot(s)
-First page :sparkles:
-![]()
+First screen :sparkles:
 
-Second page
-![]()
+![](https://github.com/iAbrar/PitchPerfect/blob/master/1.png)
+
+Second screen
+
+![](https://github.com/iAbrar/PitchPerfect/blob/master/2.png)
 
 
 ## Technology, Languages and Freamworks:
