@@ -22,6 +22,6 @@ Home page :sparkles:
     
 
 ## Future Checklist:
-- [ ] create ico
+- [ ] Change design
 - [x] completed :muscle:
 
